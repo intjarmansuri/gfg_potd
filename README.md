@@ -9,6 +9,7 @@ My goal is to improve problem-solving skills, enhance coding logic, and grow as 
 ## 🛠️ Languages and Tools:
 I aim to solve these problems using the following technology:
 - **C++**
+- **VS Code**
 
 ---
 
