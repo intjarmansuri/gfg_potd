@@ -27,7 +27,7 @@ Whether you are here to learn, give feedback, or just explore, feel free to chec
 ## 📬 Let's Connect!
 You can reach me or follow my coding journey through the following platforms:
 
-- [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IntjarMansuri)
+- [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intjarmansuri)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/intjarmansuri)
 
 ---
