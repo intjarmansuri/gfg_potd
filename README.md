@@ -7,7 +7,9 @@ My goal is to improve problem-solving skills, enhance coding logic, and grow as 
 ---
 
 ## 🛠️ Languages and Tools:
+
 I aim to solve these problems using the following technology:
+
 - **C++**
 - **VS Code**
 
@@ -16,6 +18,7 @@ I aim to solve these problems using the following technology:
 ## 💡 Why This Repository?
 
 This repository is part of my commitment to:
+
 - **Consistency**: Solve one problem every day.
 - **Improvement**: Enhance my problem-solving and coding skills.
 - **Sharing Knowledge**: Help others by sharing clean and efficient solutions.
@@ -25,6 +28,7 @@ Whether you are here to learn, give feedback, or just explore, feel free to chec
 ---
 
 ## 📬 Let's Connect!
+
 You can reach me or follow my coding journey through the following platforms:
 
 - [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intjarmansuri)
@@ -33,5 +37,3 @@ You can reach me or follow my coding journey through the following platforms:
 ---
 
 Happy Coding! 😄
-
-
