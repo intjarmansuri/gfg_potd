@@ -15,7 +15,7 @@ class Solution {
         Node* prev = NULL;
         Node* next = NULL;
         
-        while(curr != NULL) {
+        while(curr) {          // curr != NULL
             next = curr->next;
             curr->next = prev;
             prev = curr;
